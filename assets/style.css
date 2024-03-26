@@ -21,7 +21,7 @@ h1 {
     margin: 30px;
     font-family: 'Lobster', cursive;
     text-shadow: 4px 0 #232931;
-    font-size: 8rem;
+    font-size: 4rem;
     color: #4ecca3;
 }
 
@@ -35,6 +35,6 @@ img {
 }
 
 footer {
-    margin-top: 5%;
+    margin-top: 10%;
     text-align: center;
 }
